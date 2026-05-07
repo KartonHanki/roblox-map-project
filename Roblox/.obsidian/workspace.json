@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "e519cb6f0401025a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c075b9e25d1584d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a42d6a7caa970ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📁 1-Projects/📁Mapa-Fantasy/Mapa-Fantasy-Plan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mapa-Fantasy-Plan"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7267696f5019cb39",
+    "type": "split",
+    "children": [
+      {
+        "id": "44c999d7c66c2a46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc70df235c750939",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTimeReverse",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Przeglądarka plików"
+            }
+          },
+          {
+            "id": "804ea67374f28051",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Wyszukiwarka"
+            }
+          },
+          {
+            "id": "69592a3a66fbc3c9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Ulubione"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9d752b00c04a4384",
+    "type": "split",
+    "children": [
+      {
+        "id": "99aae2fc50d50e74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc43393f86b21e8a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "📁 1-Projects/📁Mapa-Fantasy/Mapa-Fantasy-Plan.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Linki zwrotne do Mapa-Fantasy-Plan"
+            }
+          },
+          {
+            "id": "f096f84575eaaad3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "📁 1-Projects/📁Mapa-Fantasy/Mapa-Fantasy-Plan.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Łącza wychodzące od Mapa-Fantasy-Plan"
+            }
+          },
+          {
+            "id": "d5a2de82e15a8b25",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tagi"
+            }
+          },
+          {
+            "id": "37bbfe46ff1d56d3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Wszystkie atrybuty"
+            }
+          },
+          {
+            "id": "4dda963b689ac1a7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "📁 1-Projects/📁Mapa-Fantasy/Mapa-Fantasy-Plan.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Konspekt Mapa-Fantasy-Plan"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Otwórz okno szybkiego wyboru": false,
+      "graph:Otwórz podgląd grafu": false,
+      "canvas:Stwórz nową tablicę": false,
+      "daily-notes:Otwórz dzisiejszy dziennik": false,
+      "templates:Wstaw szablon": false,
+      "command-palette:Otwórz listę poleceń": false,
+      "bases:Stwórz nową bazę danych": false
+    }
+  },
+  "active": "5a42d6a7caa970ac",
+  "lastOpenFiles": [
+    "📁 MOC/MOC-Roblox-Project.md",
+    "📁 1-Projects/📁Mapa-Fantasy/Mapa-Fantasy-Plan.md",
+    "Bez nazwy.base",
+    "📁 AI-Notes",
+    "📁 MOC",
+    "📁 4-Archives",
+    "📁 3-Resources/📁 Modele-3D",
+    "📁 3-Resources/📁 Skrypty-Lua",
+    "📁 3-Resources",
+    "📁 2-Areas/📁Nauka-Ai",
+    "📁 2-Areas/📁Finanse",
+    "📁 2-Areas/📁 Roblox",
+    "Witaj.md"
+  ]
+}
