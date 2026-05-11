@@ -1,0 +1,15 @@
+# Lokalne uprawnienia/ustawienia Claude Code (per-maszyna, nie udostępniać)
+.claude/settings.local.json
+
+# Lokalne dane Weppy (cache/stan, jeśli powstaną)
+.weppy-data/
+
+# Typowe lokalne śmieci
+node_modules/
+.DS_Store
+Thumbs.db
+
+# Roblox place files (binarne, nie do gita)
+*.rbxl
+*.rbxlx
+*.rbxl.lock

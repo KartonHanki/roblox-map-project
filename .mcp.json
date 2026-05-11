@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "roblox": {
+      "command": "npx",
+      "args": ["-y", "@weppy/roblox-mcp"],
+      "transport": "stdio"
+    }
+  }
+}

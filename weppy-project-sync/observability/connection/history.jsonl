@@ -1,0 +1,5 @@
+{"timestamp":"2026-05-09T21:45:20.832Z","type":"mcp","status":"registered","instanceId":"e80bb697-9819-46b4-8879-28acdf1f7fd5","message":"MCP registered — e80bb697-9819-46b4-8879-28acdf1f7fd5"}
+{"timestamp":"2026-05-09T22:00:55.823Z","type":"mcp","status":"registered","instanceId":"2ede0ab5-34f5-4c04-8611-60fef0b0ec07","message":"MCP registered — Claude Code","aiClientName":"Claude Code"}
+{"timestamp":"2026-05-09T22:01:48.362Z","type":"mcp","status":"registered","instanceId":"da433c9f-5529-4298-b257-711bc88df1bd","message":"MCP registered — da433c9f-5529-4298-b257-711bc88df1bd"}
+{"timestamp":"2026-05-09T22:17:50.174Z","type":"mcp","status":"registered","instanceId":"54ff8be1-1ea2-4149-b960-d9eb03503ac5","message":"MCP registered — 54ff8be1-1ea2-4149-b960-d9eb03503ac5"}
+{"timestamp":"2026-05-09T23:17:51.067Z","type":"mcp","status":"unregistered","instanceId":"54ff8be1-1ea2-4149-b960-d9eb03503ac5","message":"MCP unregistered — 54ff8be1-1ea2-4149-b960-d9eb03503ac5"}

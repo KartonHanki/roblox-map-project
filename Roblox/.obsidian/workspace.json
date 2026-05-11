@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "318065cd0c42efa5",
+        "id": "57b8967f9b15d76f",
         "type": "tabs",
         "children": [
           {
-            "id": "b8ea6d3d1977c843",
+            "id": "994baf0e16ed51e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "📁 MOC/MOC-Roblox-Project.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MOC-Roblox-Project"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Podgląd grafu"
             }
           }
         ]
@@ -183,20 +179,33 @@
       "bases:Stwórz nową bazę danych": false
     }
   },
-  "active": "b8ea6d3d1977c843",
+  "active": "994baf0e16ed51e1",
   "lastOpenFiles": [
-    "📁 1-Projects/📁Mapa-Fantasy/Mapa-Fantasy-Plan.md",
+    "📁 1-Projects/📁Mapa-Fantasy/📁PoC/03-Prompt-Interakcja-Drzwi.md",
+    "📁 1-Projects/📁Mapa-Fantasy/📁PoC/02-Prompt-Detale-Liminal.md",
+    "📁 1-Projects/📁Mapa-Fantasy/📁PoC/01-Prompt-Setup-Sceny.md",
+    "📁 1-Projects/📁Mapa-Fantasy/📁PoC/00-Liminal-Mall-Style-Guide.md",
+    "📁 1-Projects/📁Mapa-Fantasy/📁PoC/README.md",
+    "📁 1-Projects/📁Mapa-Fantasy/📁PoC/files.zip",
+    "📁 1-Projects/📁Mapa-Fantasy/📁PoC/files/02-Prompt-Detale-Liminal.md",
+    "📁 1-Projects/📁Mapa-Fantasy/📁PoC/files/README.md",
+    "📁 1-Projects/📁Mapa-Fantasy/📁PoC/files/03-Prompt-Interakcja-Drzwi.md",
+    "📁 1-Projects/📁Mapa-Fantasy/📁PoC/files/01-Prompt-Setup-Sceny.md",
+    "📁 1-Projects/📁Mapa-Fantasy/📁PoC/files/00-Liminal-Mall-Style-Guide.md",
+    "📁 1-Projects/📁Mapa-Fantasy/📁PoC/files",
+    "📁 1-Projects/📁Mapa-Fantasy/📁PoC",
+    "2-Areas/Finanse.md",
+    "2-Areas",
+    "📁 AI-Notes/Analiza-Rynku-2026-05.md",
+    "📁 1-Projects/📁Mapa-Fantasy/Mapa-Fantasy-Plan-updated.md",
     "📁 MOC/MOC-Roblox-Project.md",
+    "📁 1-Projects/📁Mapa-Fantasy/Mapa-Fantasy-Plan.md",
     "Bez nazwy.base",
     "📁 AI-Notes",
     "📁 MOC",
     "📁 4-Archives",
     "📁 3-Resources/📁 Modele-3D",
     "📁 3-Resources/📁 Skrypty-Lua",
-    "📁 3-Resources",
-    "📁 2-Areas/📁Nauka-Ai",
-    "📁 2-Areas/📁Finanse",
-    "📁 2-Areas/📁 Roblox",
     "Witaj.md"
   ]
 }
