@@ -3,3 +3,4 @@
 {"timestamp":"2026-05-09T22:01:48.362Z","type":"mcp","status":"registered","instanceId":"da433c9f-5529-4298-b257-711bc88df1bd","message":"MCP registered — da433c9f-5529-4298-b257-711bc88df1bd"}
 {"timestamp":"2026-05-09T22:17:50.174Z","type":"mcp","status":"registered","instanceId":"54ff8be1-1ea2-4149-b960-d9eb03503ac5","message":"MCP registered — 54ff8be1-1ea2-4149-b960-d9eb03503ac5"}
 {"timestamp":"2026-05-09T23:17:51.067Z","type":"mcp","status":"unregistered","instanceId":"54ff8be1-1ea2-4149-b960-d9eb03503ac5","message":"MCP unregistered — 54ff8be1-1ea2-4149-b960-d9eb03503ac5"}
+{"timestamp":"2026-05-13T11:03:03.543Z","type":"mcp","status":"registered","instanceId":"c9740259-4996-4f77-a23a-8ad1dc92e41e","message":"MCP registered — c9740259-4996-4f77-a23a-8ad1dc92e41e"}
