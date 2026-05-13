@@ -11,10 +11,14 @@
             "id": "994baf0e16ed51e1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Podgląd grafu"
+              "type": "markdown",
+              "state": {
+                "file": "📁 1-Projects/📁Mapa-Fantasy/📁PoC/03-Prompt-Interakcja-Drzwi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03-Prompt-Interakcja-Drzwi"
             }
           }
         ]
@@ -181,11 +185,11 @@
   },
   "active": "994baf0e16ed51e1",
   "lastOpenFiles": [
-    "📁 1-Projects/📁Mapa-Fantasy/📁PoC/03-Prompt-Interakcja-Drzwi.md",
     "📁 1-Projects/📁Mapa-Fantasy/📁PoC/02-Prompt-Detale-Liminal.md",
-    "📁 1-Projects/📁Mapa-Fantasy/📁PoC/01-Prompt-Setup-Sceny.md",
     "📁 1-Projects/📁Mapa-Fantasy/📁PoC/00-Liminal-Mall-Style-Guide.md",
     "📁 1-Projects/📁Mapa-Fantasy/📁PoC/README.md",
+    "📁 1-Projects/📁Mapa-Fantasy/📁PoC/03-Prompt-Interakcja-Drzwi.md",
+    "📁 1-Projects/📁Mapa-Fantasy/📁PoC/01-Prompt-Setup-Sceny.md",
     "📁 1-Projects/📁Mapa-Fantasy/📁PoC/files.zip",
     "📁 1-Projects/📁Mapa-Fantasy/📁PoC/files/02-Prompt-Detale-Liminal.md",
     "📁 1-Projects/📁Mapa-Fantasy/📁PoC/files/README.md",

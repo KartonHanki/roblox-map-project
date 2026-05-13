@@ -33,11 +33,11 @@ Drzwi znajdują się w południowej ścianie (gracz wchodzi do mall'u przez te d
 - Parent: MallLobby/ExitDoors/DoorParts
 
 2a. "DoorLeft":
-- Position: Vector3.new(-2, 5, 29.5)
+- Position: Vector3.new(-2, 5, 29.7)
 - Size: Vector3.new(4, 10, 0.5)
 
 2b. "DoorRight":
-- Position: Vector3.new(2, 5, 29.5)
+- Position: Vector3.new(2, 5, 29.7)
 - Size: Vector3.new(4, 10, 0.5)
 
 KROK 3 — Futryna drzwi (ramka metalowa)
